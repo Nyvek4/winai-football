@@ -1,3 +1,9 @@
 venv
 *.log
 *.csv
+*.avi
+*.mp4
+*.pt
+*.pth
+*.pkl
+*.h5
